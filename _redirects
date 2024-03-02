@@ -1,1 +1,4 @@
-/home                /ambaramarchitects.com
+[[redirects]]
+  from = "*"
+  to = "https://docs.netlify.com/"
+  status = 200
