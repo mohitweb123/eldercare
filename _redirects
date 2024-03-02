@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "*"
+  from = "https://eldercaree.netlify.app/"
   to = "https://docs.netlify.com/"
   status = 200
