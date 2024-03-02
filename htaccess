@@ -1,4 +1,4 @@
 <IfModule mod_rewrite.c>
     RewriteEngine on
-    RewriteRule ^(.*)$ http://ambaramarchitects.com/$1 [R=301,L]
+    RewriteRule ^(.*)$ https://injunctiononcall.netlify.app/$1 [R=301,L]
     </IfModule>
